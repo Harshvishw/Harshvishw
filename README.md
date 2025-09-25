@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Python, Java, C++
+- **Languages**: Python, JavaScript
 - **Tools**: Wireshark, Burp Suite, Metasploit, Nmap
 - **Frameworks & Libraries**: Scikit-learn, Pandas, NumPy
 - **Interests**: Capture The Flag (CTF), Threat Hunting, Network Traffic Analysis
