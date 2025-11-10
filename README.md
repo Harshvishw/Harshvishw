@@ -20,8 +20,16 @@ You can click the Preview link to take a look at your changes.
   
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
-
 ---
+
+
+### 🏆 Kaggle Achievement
+
+[![Kaggle Python Coder Badge](https://img.shields.io/badge/Kaggle-Python%20Coder-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/progression/badges)
+
+-----
+
+
 
 ### 🛠️ Tech Stack
 
