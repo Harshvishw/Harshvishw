@@ -24,8 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🏆 Kaggle Achievement
-
-[![Kaggle Python Coder Badge](https://github.com/Harshvishw/Harshvishw/blob/main/inbox_1488634_09e1f99bdf3222934ad7769409ec3f6d_Badge-26.svg)
+[Kaggle Python Coder Badge](https://github.com/Harshvishw/Harshvishw/blob/main/inbox_1488634_09e1f99bdf3222934ad7769409ec3f6d_Badge-26.svg)
 
 -----
 
