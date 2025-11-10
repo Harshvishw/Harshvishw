@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🏆 Kaggle Achievement
 
-[![Kaggle Python Coder Badge](https://img.shields.io/badge/Kaggle-Python%20Coder-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/progression/badges)
+[![Kaggle Python Coder Badge](https://github.com/Harshvishw/Harshvishw/blob/main/inbox_1488634_09e1f99bdf3222934ad7769409ec3f6d_Badge-26.svg)
 
 -----
 
