@@ -24,9 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🏆 Kaggle Achievement
-
-### 🏆 Kaggle Achievement
-
 [![Kaggle Python Coder Badge](https://raw.githubusercontent.com/Harshvishw/Harshvishw/main/inbox_1488634_09e1f99bdf3222934ad7769409ec3f6d_Badge-26.svg)](https://www.kaggle.com/progression/badges)
 
 Earned the **Kaggle Python Coder Badge** for successfully completing the Python course and demonstrating Python programming skills on Kaggle.
